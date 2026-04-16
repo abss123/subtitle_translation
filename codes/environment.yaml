@@ -16,3 +16,7 @@ dependencies:
       - pysubs2 # A handy library specifically for subtitle editing/parsing
       - opustools
       - cinemagoer
+      - transformers
+      - torch
+      - sentencepiece
+      - sacremoses

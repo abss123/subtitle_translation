@@ -1,0 +1,125 @@
+key,voter_email,row_idx,en_text,choices,choice_labels,timestamp
+m0972220819@gmail.com|0,m0972220819@gmail.com,0,Subtitles created by a human.,"[""zh_claude""]","[""Claude""]",2026-03-25 05:37:35.234500
+m0972220819@gmail.com|1,m0972220819@gmail.com,1,Bleh.,"[""zh_claude""]","[""Claude""]",2026-03-25 05:41:22.819600
+m0972220819@gmail.com|2,m0972220819@gmail.com,2,"Blood, blood, blood! And death.","[""zh_claude"", ""zh_deepseek""]","[""Claude"", ""DeepSeek""]",2026-03-25 05:41:53.999809
+m0972220819@gmail.com|3,m0972220819@gmail.com,3,"All right, you know what, you're milking it.","[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 05:42:44.923195
+m0972220819@gmail.com|4,m0972220819@gmail.com,4,"Besides, I think we got it. I think we got it.","[""zh_deepseek"", ""zh_nllb""]","[""DeepSeek"", ""NLLB""]",2026-03-25 05:43:05.670424
+m0972220819@gmail.com|5,m0972220819@gmail.com,5,"We got it up there. Thank you, Yakety-yak!","[""zh_claude""]","[""Claude""]",2026-03-25 05:44:12.513907
+m0972220819@gmail.com|6,m0972220819@gmail.com,6,You laid it all out beautifully.,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 05:44:30.767177
+m0972220819@gmail.com|7,m0972220819@gmail.com,7,"I framed Lionheart. I can frame you, too.","[""zh_deepseek"", ""zh_claude""]","[""DeepSeek"", ""Claude""]",2026-03-25 05:45:59.567288
+m0972220819@gmail.com|9,m0972220819@gmail.com,9,Actually...,"[""zh_nllb"", ""zh_deepseek""]","[""NLLB"", ""DeepSeek""]",2026-03-25 05:48:24.462859
+m0972220819@gmail.com|10,m0972220819@gmail.com,10,And I'll dart every predator in Zootopia to keep it that way.,"[""zh_deepseek"", ""zh_claude""]","[""DeepSeek"", ""Claude""]",2026-03-25 05:49:06.643584
+m0972220819@gmail.com|12,m0972220819@gmail.com,12,"It's called a hustle, sweetheart.","[""zh_claude"", ""zh_deepseek""]","[""Claude"", ""DeepSeek""]",2026-03-25 05:50:05.684912
+m0972220819@gmail.com|13,m0972220819@gmail.com,13,Boom.,"[""zh_claude"", ""zh_deepseek""]","[""Claude"", ""DeepSeek""]",2026-03-25 05:50:32.042314
+m0972220819@gmail.com|14,m0972220819@gmail.com,14,"Unlikely duo, Judy Hopps, the city's first bunny cop,","[""zh_claude""]","[""Claude""]",2026-03-25 05:52:48.511115
+m0972220819@gmail.com|15,m0972220819@gmail.com,15,"and Nicholas Wilde, a small-time street fox,","[""zh_claude""]","[""Claude""]",2026-03-25 05:53:44.889282
+m0972220819@gmail.com|17,m0972220819@gmail.com,17,"I can frame you, too.","[""zh_claude"", ""zh_deepseek""]","[""Claude"", ""DeepSeek""]",2026-03-25 05:54:54.453542
+m0972220819@gmail.com|18,m0972220819@gmail.com,18,"Wilde later joined the ZPD himself, where the pair are now the very first","[""zh_claude""]","[""Claude""]",2026-03-25 05:55:21.036836
+m0972220819@gmail.com|19,m0972220819@gmail.com,19,bunny-fox team in the history of Zootopia.,"[""zh_deepseek"", ""zh_claude""]","[""DeepSeek"", ""Claude""]",2026-03-25 05:55:50.779951
+m0972220819@gmail.com|20,m0972220819@gmail.com,20,"New mayor and former actor Brian Winddancer, hailed the two","[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 05:58:03.549880
+m0972220819@gmail.com|21,m0972220819@gmail.com,21,during celebrations for the 100th anniversary of the invention of Zootopia's weather walls,"[""zh_claude"", ""zh_deepseek""]","[""Claude"", ""DeepSeek""]",2026-03-25 05:58:33.102501
+m0972220819@gmail.com|22,m0972220819@gmail.com,22,that allowed all environments and all animals to coexist in one city.,"[""zh_deepseek"", ""zh_claude""]","[""DeepSeek"", ""Claude""]",2026-03-25 05:59:04.173215
+m0972220819@gmail.com|23,m0972220819@gmail.com,23,This is our Zootennial.,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 05:59:27.622506
+m0972220819@gmail.com|24,m0972220819@gmail.com,24,And if a lowly country bunny and a shifty likely criminal fox,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 06:00:11.194534
+m0972220819@gmail.com|25,m0972220819@gmail.com,25,"can ignore their vast, vast differences and solve bias and stereotype forever,","[""zh_claude""]","[""Claude""]",2026-03-25 06:00:28.917628
+m0972220819@gmail.com|26,m0972220819@gmail.com,26,then maybe we can all embrace our,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 06:00:48.274623
+m0972220819@gmail.com|27,m0972220819@gmail.com,27,differences and be better zoogether.,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 06:01:04.877348
+m0972220819@gmail.com|28,m0972220819@gmail.com,28,"We're gonna crack a new case, make the world a better place,","[""zh_claude"", ""zh_deepseek""]","[""Claude"", ""DeepSeek""]",2026-03-25 06:02:48.842979
+m0972220819@gmail.com|29,m0972220819@gmail.com,29,and be the greatest partners of all time!,"[""zh_claude"", ""zh_deepseek""]","[""Claude"", ""DeepSeek""]",2026-03-25 06:02:57.591621
+m0972220819@gmail.com|30,m0972220819@gmail.com,30,"I mean, we're not that different.","[""zh_deepseek"", ""zh_claude""]","[""DeepSeek"", ""Claude""]",2026-03-25 06:03:06.174210
+m0972220819@gmail.com|31,m0972220819@gmail.com,31,"At the ZPD, partnership is the cornerstone of success.","[""zh_claude"", ""zh_deepseek""]","[""Claude"", ""DeepSeek""]",2026-03-25 06:03:33.771520
+m0972220819@gmail.com|32,m0972220819@gmail.com,32,You want to put bad guys away?,"[""zh_nllb"", ""zh_deepseek""]","[""NLLB"", ""DeepSeek""]",2026-03-25 06:03:46.872503
+m0972220819@gmail.com|33,m0972220819@gmail.com,33,Be on the same page every day.,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 06:03:55.689292
+canhui@berkeley.edu|0,canhui@berkeley.edu,0,Subtitles created by a human.,"[""zh_nllb""]","[""NLLB""]",2026-03-25 07:11:20.098122
+canhui@berkeley.edu|1,canhui@berkeley.edu,1,Bleh.,"[""zh_claude"", ""zh_deepseek""]","[""Claude"", ""DeepSeek""]",2026-03-25 07:14:27.078151
+canhui@berkeley.edu|2,canhui@berkeley.edu,2,"Blood, blood, blood! And death.","[""zh_deepseek"", ""zh_claude""]","[""DeepSeek"", ""Claude""]",2026-03-25 07:15:59.977426
+canhui@berkeley.edu|3,canhui@berkeley.edu,3,"All right, you know what, you're milking it.","[""zh_claude""]","[""Claude""]",2026-03-25 07:17:21.756829
+canhui@berkeley.edu|4,canhui@berkeley.edu,4,"Besides, I think we got it. I think we got it.","[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 07:20:08.083844
+canhui@berkeley.edu|5,canhui@berkeley.edu,5,"We got it up there. Thank you, Yakety-yak!","[""zh_claude""]","[""Claude""]",2026-03-25 07:22:37.101461
+canhui@berkeley.edu|6,canhui@berkeley.edu,6,You laid it all out beautifully.,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 07:22:56.378861
+canhui@berkeley.edu|7,canhui@berkeley.edu,7,"I framed Lionheart. I can frame you, too.","[""zh_claude"", ""zh_deepseek""]","[""Claude"", ""DeepSeek""]",2026-03-25 07:24:13.043462
+canhui@berkeley.edu|8,canhui@berkeley.edu,8,It's my word against yours.,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 07:24:30.725991
+canhui@berkeley.edu|9,canhui@berkeley.edu,9,Actually...,"[""zh_nllb""]","[""NLLB""]",2026-03-25 07:26:30.438513
+canhui@berkeley.edu|10,canhui@berkeley.edu,10,And I'll dart every predator in Zootopia to keep it that way.,"[""zh_claude""]","[""Claude""]",2026-03-25 07:27:35.902148
+canhui@berkeley.edu|11,canhui@berkeley.edu,11,It's your word against yours.,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 07:28:07.810216
+canhui@berkeley.edu|12,canhui@berkeley.edu,12,"It's called a hustle, sweetheart.","[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 07:29:09.731033
+canhui@berkeley.edu|13,canhui@berkeley.edu,13,Boom.,"[""zh_claude""]","[""Claude""]",2026-03-25 07:30:39.483063
+canhui@berkeley.edu|14,canhui@berkeley.edu,14,"Unlikely duo, Judy Hopps, the city's first bunny cop,","[""zh_claude""]","[""Claude""]",2026-03-25 08:12:54.368062
+canhui@berkeley.edu|15,canhui@berkeley.edu,15,"and Nicholas Wilde, a small-time street fox,","[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 08:14:47.206367
+canhui@berkeley.edu|17,canhui@berkeley.edu,17,"I can frame you, too.","[""zh_deepseek"", ""zh_claude""]","[""DeepSeek"", ""Claude""]",2026-03-25 08:17:48.739408
+canhui@berkeley.edu|18,canhui@berkeley.edu,18,"Wilde later joined the ZPD himself, where the pair are now the very first","[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 08:18:58.940311
+canhui@berkeley.edu|19,canhui@berkeley.edu,19,bunny-fox team in the history of Zootopia.,"[""zh_nllb""]","[""NLLB""]",2026-03-25 08:20:14.054941
+canhui@berkeley.edu|20,canhui@berkeley.edu,20,"New mayor and former actor Brian Winddancer, hailed the two","[""zh_nllb""]","[""NLLB""]",2026-03-25 08:22:23.476879
+canhui@berkeley.edu|21,canhui@berkeley.edu,21,during celebrations for the 100th anniversary of the invention of Zootopia's weather walls,"[""zh_claude""]","[""Claude""]",2026-03-25 08:23:32.337276
+canhui@berkeley.edu|22,canhui@berkeley.edu,22,that allowed all environments and all animals to coexist in one city.,"[""zh_nllb""]","[""NLLB""]",2026-03-25 08:24:23.787752
+canhui@berkeley.edu|23,canhui@berkeley.edu,23,This is our Zootennial.,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 08:25:12.760829
+canhui@berkeley.edu|24,canhui@berkeley.edu,24,And if a lowly country bunny and a shifty likely criminal fox,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 08:27:33.273017
+canhui@berkeley.edu|25,canhui@berkeley.edu,25,"can ignore their vast, vast differences and solve bias and stereotype forever,","[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 08:44:18.676065
+canhui@berkeley.edu|26,canhui@berkeley.edu,26,then maybe we can all embrace our,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 08:44:50.404359
+canhui@berkeley.edu|27,canhui@berkeley.edu,27,differences and be better zoogether.,"[""zh_claude""]","[""Claude""]",2026-03-25 08:45:11.278464
+canhui@berkeley.edu|28,canhui@berkeley.edu,28,"We're gonna crack a new case, make the world a better place,","[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 08:45:31.277864
+canhui@berkeley.edu|29,canhui@berkeley.edu,29,and be the greatest partners of all time!,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-25 08:45:44.584989
+canhui@berkeley.edu|30,canhui@berkeley.edu,30,"I mean, we're not that different.","[""zh_deepseek"", ""zh_claude""]","[""DeepSeek"", ""Claude""]",2026-03-25 09:20:20.573505
+canhui@berkeley.edu|16,canhui@berkeley.edu,16,uncovered a conspiracy by Mayor Bellwether today using a toy carrot recorder pen.,"[""zh_claude""]","[""Claude""]",2026-03-26 03:35:29.768270
+canhui@berkeley.edu|31,canhui@berkeley.edu,31,"At the ZPD, partnership is the cornerstone of success.","[""zh_claude""]","[""Claude""]",2026-03-26 03:35:55.195665
+canhui@berkeley.edu|32,canhui@berkeley.edu,32,You want to put bad guys away?,"[""zh_claude""]","[""Claude""]",2026-03-26 03:36:08.291429
+canhui@berkeley.edu|33,canhui@berkeley.edu,33,Be on the same page every day.,"[""zh_claude""]","[""Claude""]",2026-03-26 03:36:29.843982
+canhui@berkeley.edu|34,canhui@berkeley.edu,34,"Now, today's bad guy is this customs inspector,","[""zh_deepseek""]","[""DeepSeek""]",2026-03-26 03:37:00.725797
+canhui@berkeley.edu|35,canhui@berkeley.edu,35,who's been smuggling illegal overseas cargo through the city's shipyard.,"[""zh_nllb""]","[""NLLB""]",2026-03-26 03:39:10.577751
+canhui@berkeley.edu|36,canhui@berkeley.edu,36,Captains Hoggbottom and Truffler will lead.,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-26 03:39:23.495648
+canhui@berkeley.edu|37,canhui@berkeley.edu,37,"Higgins, Bloats, flank left, Chèvre, Bücheron, right,","[""zh_claude""]","[""Claude""]",2026-03-26 03:39:35.590228
+canhui@berkeley.edu|38,canhui@berkeley.edu,38,"- and down the middle, the Zebros. - Zebros!","[""zh_claude""]","[""Claude""]",2026-03-26 03:40:07.870477
+canhui@berkeley.edu|39,canhui@berkeley.edu,39,"Hopps and Wilde, I know you're eager to prove yourselves,","[""zh_claude""]","[""Claude""]",2026-03-26 03:40:27.429303
+canhui@berkeley.edu|40,canhui@berkeley.edu,40,"but as rookies, you will observe only and watch the veteran teams show you how it-","[""zh_deepseek""]","[""DeepSeek""]",2026-03-26 03:40:52.819020
+canhui@berkeley.edu|41,canhui@berkeley.edu,41,"Chief, hi.","[""zh_claude""]","[""Claude""]",2026-03-26 03:41:01.828824
+canhui@berkeley.edu|42,canhui@berkeley.edu,42,If you're looking for Nick and Judy.,"[""zh_claude"", ""zh_deepseek""]","[""Claude"", ""DeepSeek""]",2026-03-26 03:41:13.038686
+canhui@berkeley.edu|43,canhui@berkeley.edu,43,They said they got it! And they're already on site with their baby!,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-26 03:41:42.219055
+canhui@berkeley.edu|44,canhui@berkeley.edu,44,Are you sure this will work?,"[""zh_claude""]","[""Claude""]",2026-03-26 03:42:17.750885
+canhui@berkeley.edu|45,canhui@berkeley.edu,45,You're the one that said we needed a bust.,"[""zh_claude""]","[""Claude""]",2026-03-26 03:46:21.775611
+canhui@berkeley.edu|46,canhui@berkeley.edu,46,"Just follow my lead, okay? Act casual.","[""zh_claude""]","[""Claude""]",2026-03-26 03:46:37.188925
+canhui@berkeley.edu|47,canhui@berkeley.edu,47,- Hey! - Here we go.,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-26 03:49:00.343893
+canhui@berkeley.edu|48,canhui@berkeley.edu,48,Hello!,"[""zh_deepseek"", ""zh_claude""]","[""DeepSeek"", ""Claude""]",2026-03-26 03:49:14.213079
+canhui@berkeley.edu|49,canhui@berkeley.edu,49,This whole area is restricted. You can't be here.,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-26 03:49:58.888947
+canhui@berkeley.edu|50,canhui@berkeley.edu,50,Whoa. Fox and bunny.,"[""zh_claude"", ""zh_deepseek""]","[""Claude"", ""DeepSeek""]",2026-03-26 03:50:17.285256
+canhui@berkeley.edu|51,canhui@berkeley.edu,51,"- Okay... - Yes, but proud parents first, Mr...","[""zh_deepseek""]","[""DeepSeek""]",2026-03-26 03:52:32.670553
+canhui@berkeley.edu|52,canhui@berkeley.edu,52,Inspector. Inspector Snootley.,"[""zh_claude""]","[""Claude""]",2026-03-26 03:52:55.509766
+canhui@berkeley.edu|53,canhui@berkeley.edu,53,Inspector?,"[""zh_claude"", ""zh_deepseek"", ""zh_nllb""]","[""Claude"", ""DeepSeek"", ""NLLB""]",2026-03-26 03:53:06.420527
+canhui@berkeley.edu|54,canhui@berkeley.edu,54,What do you do?,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-26 03:53:15.536878
+canhui@berkeley.edu|55,canhui@berkeley.edu,55,Ensure that nothing illegal gets smuggled here in one of these cargo containers?,"[""zh_claude""]","[""Claude""]",2026-03-26 03:54:51.808293
+canhui@berkeley.edu|56,canhui@berkeley.edu,56,That's a weird way to ask that.,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-26 03:55:12.272643
+canhui@berkeley.edu|57,canhui@berkeley.edu,57,"Anyway, you got to leave.","[""zh_deepseek"", ""zh_claude""]","[""DeepSeek"", ""Claude""]",2026-03-26 03:55:38.362078
+canhui@berkeley.edu|58,canhui@berkeley.edu,58,You can't be here!,"[""zh_claude""]","[""Claude""]",2026-03-26 03:57:26.026572
+canhui@berkeley.edu|59,canhui@berkeley.edu,59,"Wait, wait.","[""zh_claude"", ""zh_deepseek""]","[""Claude"", ""DeepSeek""]",2026-03-26 03:57:36.432162
+canhui@berkeley.edu|60,canhui@berkeley.edu,60,"He's right, gosh darn it.","[""zh_claude"", ""zh_deepseek""]","[""Claude"", ""DeepSeek""]",2026-03-26 03:59:51.135183
+canhui@berkeley.edu|61,canhui@berkeley.edu,61,"You are right, sir.","[""zh_deepseek""]","[""DeepSeek""]",2026-03-26 03:59:59.780471
+canhui@berkeley.edu|62,canhui@berkeley.edu,62,"I guess we should have thought this through. Right, babe?","[""zh_claude""]","[""Claude""]",2026-03-26 04:01:53.180750
+canhui@berkeley.edu|63,canhui@berkeley.edu,63,Before we decided to come down here to this beautiful industrial shipyard,"[""zh_claude""]","[""Claude""]",2026-03-26 04:03:23.909707
+canhui@berkeley.edu|64,canhui@berkeley.edu,64,to celebrate the big day of our birthday boy.,"[""zh_claude""]","[""Claude""]",2026-03-26 04:03:46.257613
+canhui@berkeley.edu|65,canhui@berkeley.edu,65,It's his birthday?,"[""zh_claude""]","[""Claude""]",2026-03-26 04:04:03.493570
+canhui@berkeley.edu|67,canhui@berkeley.edu,67,Since the accident.,"[""zh_claude""]","[""Claude""]",2026-03-26 04:04:38.201886
+canhui@berkeley.edu|68,canhui@berkeley.edu,68,"And you know the one thing this little stinker wished for,","[""zh_claude""]","[""Claude""]",2026-03-26 04:05:04.758097
+canhui@berkeley.edu|69,canhui@berkeley.edu,69,"aside from one day getting his tail reattached, yeah,","[""zh_claude""]","[""Claude""]",2026-03-26 04:05:39.165913
+canhui@berkeley.edu|70,canhui@berkeley.edu,70,was to see a choo-choo.,"[""zh_claude"", ""zh_deepseek""]","[""Claude"", ""DeepSeek""]",2026-03-26 04:05:58.580016
+canhui@berkeley.edu|71,canhui@berkeley.edu,71,And to maybe get a toot-toot conductor to sign his cast.,"[""zh_claude""]","[""Claude""]",2026-03-26 04:07:02.170527
+canhui@berkeley.edu|72,canhui@berkeley.edu,72,But I'm betting a customs inspector would be even better.,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-26 04:07:23.525899
+canhui@berkeley.edu|73,canhui@berkeley.edu,73,Really?,"[""zh_deepseek"", ""zh_claude""]","[""DeepSeek"", ""Claude""]",2026-03-26 04:07:33.631368
+canhui@berkeley.edu|74,canhui@berkeley.edu,74,All right. For the kid.,"[""zh_claude""]","[""Claude""]",2026-03-26 04:07:57.313143
+canhui@berkeley.edu|75,canhui@berkeley.edu,75,"- For the kid. - Oh, you're a saint.","[""zh_nllb""]","[""NLLB""]",2026-03-26 04:08:19.154234
+canhui@berkeley.edu|76,canhui@berkeley.edu,76,We thank you so much. Here you go.,"[""zh_claude""]","[""Claude""]",2026-03-26 04:08:32.473094
+canhui@berkeley.edu|77,canhui@berkeley.edu,77,Either leg. Or both! I don't care.,"[""zh_claude""]","[""Claude""]",2026-03-26 04:08:52.644219
+canhui@berkeley.edu|78,canhui@berkeley.edu,78,Maybe put a doodle on it. Doesn't need to be perfect.,"[""zh_claude""]","[""Claude""]",2026-03-26 04:09:34.361338
+canhui@berkeley.edu|79,canhui@berkeley.edu,79,He's also legally blind.,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-26 04:09:57.293347
+canhui@berkeley.edu|80,canhui@berkeley.edu,80,I put a little train there because I know you like trains.,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-26 04:10:13.841312
+canhui@berkeley.edu|81,canhui@berkeley.edu,81,"Come on, come on, come on.","[""zh_claude""]","[""Claude""]",2026-03-26 04:10:20.238298
+canhui@berkeley.edu|82,canhui@berkeley.edu,82,"- Just, jiggle it... - Yes, I know.","[""zh_deepseek""]","[""DeepSeek""]",2026-03-26 04:12:40.395710
+canhui@berkeley.edu|83,canhui@berkeley.edu,83,- Hurry! - I got this.,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-26 04:12:50.674277
+canhui@berkeley.edu|84,canhui@berkeley.edu,84,"Jiggle it, jiggle it, jiggle it!","[""zh_deepseek""]","[""DeepSeek""]",2026-03-26 04:13:49.736366
+canhui@berkeley.edu|85,canhui@berkeley.edu,85,Hopps and Wilde!,"[""zh_claude"", ""zh_deepseek""]","[""Claude"", ""DeepSeek""]",2026-03-26 04:14:00.642417
+canhui@berkeley.edu|86,canhui@berkeley.edu,86,You are not authorized!,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-26 04:14:08.833629
+canhui@berkeley.edu|87,canhui@berkeley.edu,87,Stand down and wait for backup!,"[""zh_claude"", ""zh_deepseek""]","[""Claude"", ""DeepSeek""]",2026-03-26 04:14:25.545389
+canhui@berkeley.edu|88,canhui@berkeley.edu,88,- Toot-toot. - It's the fuzz!,"[""zh_claude""]","[""Claude""]",2026-03-26 04:15:30.485455
+canhui@berkeley.edu|89,canhui@berkeley.edu,89,Stop! Stop in the name of the law!,"[""zh_claude""]","[""Claude""]",2026-03-26 04:15:43.558784
+canhui@berkeley.edu|90,canhui@berkeley.edu,90,"Everybody, run!","[""zh_deepseek""]","[""DeepSeek""]",2026-03-26 04:15:49.588633
+canhui@berkeley.edu|91,canhui@berkeley.edu,91,"Well, can't win 'em all.","[""zh_claude""]","[""Claude""]",2026-03-26 04:16:02.341180
+canhui@berkeley.edu|92,canhui@berkeley.edu,92,"Get outta the road, you dumb bunny!","[""zh_claude""]","[""Claude""]",2026-03-26 04:16:22.157516
+canhui@berkeley.edu|93,canhui@berkeley.edu,93,Agree to disagree.,"[""zh_deepseek""]","[""DeepSeek""]",2026-03-26 04:16:35.697542
