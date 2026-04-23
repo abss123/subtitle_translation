@@ -5,3 +5,23 @@ __pycache__/
 codes/__pycache__/
 data/
 codes/data/
+*.pyc
+*.pyo
+*.pyd
+Thumbs.db
+
+# Local envs and secrets
+.env
+.venv/
+env/
+venv/
+knowledge_graph/.env
+knowledge_graph/.venv/
+knowledge_graph/env/
+knowledge_graph/venv/
+
+# Knowledge graph data and generated outputs
+knowledge_graph/cornell_movie_dialogs_corpus/
+knowledge_graph/output/
+knowledge_graph/outputs*/
+knowledge_graph/executed_validation.ipynb
